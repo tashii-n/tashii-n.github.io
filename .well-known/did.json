@@ -15,7 +15,7 @@
             "id": "did:web:tashii-n.github.io#key-1",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:tashii-n.github.io",
-            "publicKeyBase58": "3EMrXvVNUHuqjYhsnjSx74CVbM9csJytd72c2bQ64CMd"
+            "publicKeyBase58": "FwwGVE53kTnNTVY8fyvdz2cUfKMf6hxwrjvPE5c8tZw2"
         }
     ]
 }
