@@ -9,7 +9,7 @@
       "id": "did:web:tashii-n.github.io#key-1",
       "type": "Ed25519VerificationKey2018",
       "controller": "did:web:tashii-n.github.io",
-      "publicKeyBase58": "4CgYf7sfsBHRbpu6CTqpgPcMJE9r2cEeDRidq1iT9zjM"
+      "publicKeyBase58": "GjafRcCeaEm3LYL4HqNuUGzjctrLpcZ7TJUZyNEji6T5"
     }
   ],
   "authentication": [
